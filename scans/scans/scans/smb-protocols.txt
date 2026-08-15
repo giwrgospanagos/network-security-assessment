@@ -1,0 +1,23 @@
+Nmap SMB Protocol Enumeration
+
+Target: 192.168.1.6
+Port: 445/tcp
+
+Command:
+nmap --script smb-protocols -p445 192.168.1.6
+
+Result:
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+
+Host script results:
+| smb-protocols:
+|   dialects:
+|     2.0.2
+|     2.1
+|     3.0
+|     3.0.2
+|_    3.1.1
+
+SMBv1 was not detected during the assessment.
