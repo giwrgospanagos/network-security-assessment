@@ -38,6 +38,20 @@ The assessment was performed in several stages:
 
 * Nmap
 * Windows Command Prompt
+* ## Evidence
+
+### Nmap Basic Port Scan
+
+![Nmap Basic Scan](screenshots/nmap-basic-scan.txt.png)
+
+### Service Enumeration
+
+![Nmap Service Enumeration](screenshots/nmap-service-scan.txt.png)
+
+### SMB Protocol Enumeration
+
+![SMB Protocol Enumeration](screenshots/smb-protocols.txt.png)
+
 
 ## Findings
 
