@@ -20,7 +20,6 @@ The objective was to identify exposed TCP ports, enumerate running services, exa
 * **Operating System:** Microsoft Windows
 * **Target:** Local Windows host
 * **Network:** Private/local network
-* **Target IP:** `192.168.1.6`
 * **Tool:** Nmap 7.99.1
 
 > All testing was performed on a system under my control in a controlled environment.
