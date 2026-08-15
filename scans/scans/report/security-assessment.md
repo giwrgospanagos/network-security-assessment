@@ -16,8 +16,6 @@ No specific vulnerability was confirmed during the assessment. The findings repr
 
 **Target:** Local Windows host
 
-**IP Address:** 192.168.1.6
-
 **Operating System:** Microsoft Windows
 
 **Assessment Type:** Network service enumeration
